@@ -30,7 +30,7 @@ At the intake test it became obvious that they work with local businesses to adm
 
 The intake consisted of a language placement test, a mini-IQ test, and brief conversation with a representative to tell them about your motivation to study Dutch. Since I'd barely arrived, I skipped the language level placement and started the total beginners track. And since I was retraining to be a programmer and not working, I chose the intensive version: two 3-hour sessions, twice a week for six months.
 
-As a side note, the IQ test was fascinating; it had 20-something language-agnostic questions based on Raven's Matrices https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices and you got the answer immediately. I guessed that it's done for later statistics and correlations, since it had no bearing on placement or acceptance. But it spooked enough people in the intake who worried they'd failed it.
+As a side note, the IQ test was fascinating; it had 20-something language-agnostic questions based on [Raven's Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)and you got the answer immediately. I guessed that it's done for later statistics and correlations, since it had no bearing on placement or acceptance. But it spooked enough people in the intake who worried they'd failed it.
 
 ## Courses
 
@@ -38,7 +38,7 @@ The courses are real hard work and not everyone finishes. It's estimated you nee
 
 Much of what I wrote here may or will change. They announced a new format for beginner courses starting in September 2020, though not much else.
 
-    The course and materials are free, but the catch is you have to maintain a 70-80% attendance level, and in our case, complete a language portfolio for the city council – more on that later. You get the course book and some basic stationery in a welcome tote bag, so no one can say they don't have a notebook and a pen.
+The course and materials are free, but the catch is you have to maintain a 70-80% attendance level, and in our case, complete a language portfolio for the city council – more on that later. You get the course book and some basic stationery in a welcome tote bag, so no one can say they don't have a notebook and a pen.
 
 Teachers monitor attendance and record reasons for absence during each class. If you have a good reason to miss a class or stop altogether, that's acceptable – as long as they're discussed with those administering the course. Good reasons would be starting full time work, moving, grave illness, etc. Otherwise you have to pay some share of the course's real value as a fine. Either way, no one is named and shamed. If something changes, but you want to keep learning, they can and will suggest a move to a more appropriate course time or intensity.
 
