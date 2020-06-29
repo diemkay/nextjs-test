@@ -30,7 +30,7 @@ At the intake test it became obvious that they work with local businesses to adm
 
 The intake consisted of a language placement test, a mini-IQ test, and brief conversation with a representative to tell them about your motivation to study Dutch. Since I'd barely arrived, I skipped the language level placement and started the total beginners track. And since I was retraining to be a programmer and not working, I chose the intensive version: two 3-hour sessions, twice a week for six months.
 
-As a side note, the IQ test was fascinating; it had 20-something language-agnostic questions based on [Raven's Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)and you got the answer immediately. I guessed that it's done for later statistics and correlations, since it had no bearing on placement or acceptance. But it spooked enough people in the intake who worried they'd failed it.
+As a side note, the IQ test was fascinating; it had 20-something language-agnostic questions based on [Raven's Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices), and you got the answer immediately. I guessed that it's done for later statistics and correlations, since it had no bearing on placement or acceptance. But it spooked enough people in the intake who worried they'd failed it.
 
 ## Courses
 
